@@ -6,7 +6,7 @@
   
 - 📫 How to reach me: numanbnr4@gmail.com
   
-- ⚡ Currently Learning: Typescript, Mobile App Development, Python, Linux
+- ⚡ Currently Learning: Typescript, Mobile App Development, Python, Linux, PostgreSQL
 
 # Languages and Tools
 
